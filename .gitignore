@@ -1,6 +1,8 @@
 # Carpetas
 .idea/
 out/
+lib/
+classes/
 
 # Archivos
 *.class
