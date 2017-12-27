@@ -19,3 +19,7 @@ del triángulo.
 ## Interfaz
 
 ![Interfaz](docs/specs/InterfazGUI.png)
+
+![CambiarPuntos](docs/specs/ModificarPuntos.png)
+
+![CambiarLineas](docs/specs/CambiarLineas.png)
